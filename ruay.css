@@ -1,0 +1,57 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	width: 100%;
+	display: flex;
+	display: flex;
+	justify-content: center;
+
+}
+
+.na{
+	justify-content: center;
+	width: 80%;
+	background: white;
+	display: flex;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+ul{
+	display: flex;
+	list-style: none;
+
+}
+
+li a{
+	text-decoration: none;
+}
+
+.iz{
+	display: flex;
+	width: 85%;
+	justify-content: flex-end;
+}
+
+a{
+	padding-left: 30px;
+	font-size: 20px;
+}
+
+.nave:hover{
+	color: red;
+}
+
+.bann{
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: #FA193B;
+	padding-bottom: 200px;
+	padding-top: 200px;
+}
+
